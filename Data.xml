@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<list>
+  <item Tank="" Category="" Origin="" Crew=""/>
+
+  <item Tank ="M2" Category="Light" Origin="America" Crew="4"/>
+  <item Tank ="M3 Stuart" Category="Light" Origin="America" Crew="4"/>
+  <item Tank ="M24 Chaffee" Category="Light" Origin="America" Crew="5"/>
+  <item Tank ="M41 Bulldog" Category="Light" Origin="America" Crew="4"/>
+  <item Tank ="M551 Sheridan" Category="Light" Origin="America" Crew="4"/>
+  
+  <item Tank ="M3 Lee" Category="Medium" Origin="America" Crew="7"/>
+  <item Tank ="M4 Sherman" Category="Medium" Origin="America" Crew="5"/>
+  <item Tank ="M26 Pershing" Category="Medium" Origin="America" Crew="5"/>
+  <item Tank ="M46 Patton" Category="Medium" Origin="America" Crew="5"/>
+  <item Tank ="M48 Patton" Category="Medium" Origin="America" Crew="4"/>
+  
+  <item Tank ="M6" Category="Heavy" Origin="America" Crew="6"/>
+  <item Tank ="T29" Category="Heavy" Origin="America" Crew="6"/>
+  <item Tank ="M103" Category="Heavy" Origin="America" Crew="5"/>
+
+
+  <item Tank="PZ I" Category="Light" Origin="Germany" Crew="2"/>
+  <item Tank="PZ II" Category="Light" Origin="Germany" Crew="3"/>
+  <item Tank="Luchs" Category="Light" Origin="Germany" Crew="3"/>
+  <item Tank="PZ 35t" Category="Light" Origin="Germany" Crew="4"/>
+  
+  <item Tank="PZ III" Category="Medium" Origin="Germany" Crew="5"/>
+  <item Tank="PZ IV" Category="Medium" Origin="Germany" Crew="5"/>
+  <item Tank="Panther" Category="Medium" Origin="Germany" Crew="5"/>
+  <item Tank="Leopard 1" Category="Medium" Origin="Germany" Crew="4"/>
+  <item Tank="Leopard 2" Category="Medium" Origin="Germany" Crew="4"/>
+  
+  <item Tank="VK 30.1 (H)" Category="Heavy" Origin="Germany" Crew="N/A"/>
+  <item Tank="VK 36.1 (H)" Category="Heavy" Origin="Germany" Crew="N/A"/>
+  <item Tank="Tiger I" Category="Heavy" Origin="Germany" Crew="5"/>
+  <item Tank="Tiger II" Category="Heavy" Origin="Germany" Crew="5"/>
+  <item Tank="E100" Category="Heavy" Origin="Germany" Crew="6"/>
+
+
+  <item Tank="BT-2" Category="Light" Origin="USSR" Crew="3"/>
+  <item Tank="BT-5" Category="Light" Origin="USSR" Crew="3"/>
+  <item Tank="BT-7" Category="Light" Origin="USSR" Crew="3"/>
+  <item Tank="A-20" Category="Light" Origin="USSR" Crew="4"/>
+  <item Tank="A-30" Category="Light" Origin="USSR" Crew="4"/>
+
+  <item Tank="T-34" Category="Medium" Origin="USSR" Crew="4"/>
+  <item Tank="T-34-85" Category="Medium" Origin="USSR" Crew="5"/>
+  <item Tank="T-62" Category="Medium" Origin="USSR" Crew="4"/>
+  <item Tank="T-72" Category="Medium" Origin="USSR" Crew="3"/>
+  
+  <item Tank="KV-1" Category="Heavy" Origin="USSR" Crew="5"/>
+  <item Tank="IS-2" Category="Heavy" Origin="USSR" Crew="4"/>
+  <item Tank="IS-3" Category="Heavy" Origin="USSR" Crew="4"/>
+  <item Tank="IS-4" Category="Heavy" Origin="USSR" Crew="4"/>
+  <item Tank="IS-5" Category="Heavy" Origin="USSR" Crew="4"/>
+  
+  <item/>
+</list>
